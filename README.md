@@ -1,5 +1,6 @@
 # Aurora Formatter
 
+<a href="https://discord.gg/Wb7JvdzmtJ"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://github.com/jakepscripts/auroracf/stargazers"><img src="https://img.shields.io/github/stars/jakepscripts/auroracf" alt="Stars Badge"/></a>
 <a href="https://github.com/jakepscripts/auroracf/network/members"><img src="https://img.shields.io/github/forks/jakepscripts/auroracf" alt="Forks Badge"/></a>
 <a href="https://github.com/jakepscripts/auroracf/pulls"><img src="https://img.shields.io/github/issues-pr/jakepscripts/auroracf" alt="Pull Requests Badge"/></a>
