@@ -5,4 +5,4 @@
 <a href="https://github.com/jakepscripts/auroracf/pulls"><img src="https://img.shields.io/github/issues-pr/jakepscripts/auroracf" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ajakepscripts/auroracf/issues"><img src="https://img.shields.io/github/issues/jakepscripts/auroracf" alt="Issues Badge"/></a>
 <a href="https://github.com/jakepscripts/auroracf/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jakepscripts/auroracf?color=2b9348"></a>
-<a href="https://github.comjakepscripts/auroracf/blob/master/LICENSE"><img src="https://img.shields.io/github/licensejakepscripts/auroracf?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.comjakepscripts/auroracf/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jakepscripts/auroracf?color=2b9348" alt="License Badge"/></a>
