@@ -62,7 +62,14 @@ def cls():
 
 
 if option == 1:
-
+   
+    cls()
+    print('[AuroraCF] -> formatting.')
+    cls()
+    print('[AuroraCF] -> formatting..')
+    cls()
+    print('[AuroraCF] -> formatting...')
+    cls()
 
     input = 'cookies.txt'
     output = 'bin/output.txt'
@@ -76,16 +83,7 @@ if option == 1:
     with open("bin/output.txt", "w") as outfile:
         outfile.write("\n".join(cookies))
 
-    cls()
-    print('[AuroraCF] -> formatting.')
-    time.sleep(1)
-    cls()
-    print('[AuroraCF] -> formatting..')
-    time.sleep(1)
-    cls()
-    print('[AuroraCF] -> formatting...')
-    time.sleep(1)
-    cls()
+  
     print(Fore.LIGHTGREEN_EX + '[AuroraCF] -> Successfully Formated (saved to bin/output.txt)')
     time.sleep(3)
     cls()
